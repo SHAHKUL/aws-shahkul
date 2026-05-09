@@ -1,7 +1,10 @@
-
+<<<<<<< HEAD
 hai hello
 from devv branch
-----bug fix----
-new one
-<h1>Welcome, World</h1>
 
+----bug fix----
+
+new one
+=======
+<h1>Welcome, World</h1>
+>>>>>>> 3cea22c43515bddfdbb3c0107f19eaa2e11ec429
