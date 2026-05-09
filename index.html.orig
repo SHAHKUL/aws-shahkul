@@ -1,6 +1,7 @@
 hai hello
 from devv branch
-
+<<<<<<< HEAD
 ----bug fix----
-
+=======
 new one
+>>>>>>> dev
